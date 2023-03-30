@@ -1,5 +1,5 @@
 # 💫 About Me:
-😅 Currently learning Python<br>🔍 Curious about exploring new things<br>💻 Front End
+😅 Currently into Python<br>🔍 Curious about exploring new things<br>💻 Front End
 
 
 ## 🌐 Socials:
