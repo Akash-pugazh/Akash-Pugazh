@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/akash_pugazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_pugazh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/akash-pugazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akash-pugazh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aakash-r-5992bb1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-r-5992bb1bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aakashr2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-r-5992bb1bb" height="30" width="40" /></a>
 <a href="https://dev.to/akash_pugazh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akash_pugazh" height="30" width="40" /></a>
 </p>
 
