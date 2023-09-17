@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akash_pugazh" target="blank"><img src="https://img.shields.io/twitter/follow/akash_pugazh?logo=twitter&style=for-the-badge" alt="akash_pugazh" /></a> </p>
 
-🌱 I’m currently learning **Express, Mongodb** <br>
+🌱 I’m currently learning **Next.js** <br>
 👯 I’m looking to collaborate on **Front-End Projects** <br>
 💬 Ask me about **React** <br>
 📫 How to reach me **aakashit13@gmail.com** <br>
