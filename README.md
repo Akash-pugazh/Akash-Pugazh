@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Next.js && TypeScript** <br>
 👯 I’m looking to collaborate on **Front-End Projects** <br>
-💬 Ask me about **React** <br>
+💬 Ask me about **React && JavaScript** <br>
 📫 How to reach me **aakashit13@gmail.com** <br>
 💞 Things I Love **KeyBoards and DeskSetups** <br>
 ⚡ Fun fact **I like Teaching stuff and LeetCoding** <br>
