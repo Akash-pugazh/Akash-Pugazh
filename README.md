@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aakash</h1>
-<h3 align="left">A passionate Full Stack developer</h3>
+<!-- <h3 align="left">A passionate Full Stack developer</h3> -->
 
 ![59ZV](https://github.com/Akash-pugazh/Akash-Pugazh/assets/89995392/e9e60963-70db-48a8-9de3-fd6fb7b47384)
 
